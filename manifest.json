@@ -35,9 +35,9 @@
   ],
   "main.js": "render-page.js",
   "main.js.map": "render-page.js.map",
-  "name": "Juliette Pretot",
+  "name": "Nguyen Tran",
   "orientation": "portrait",
-  "short_name": "Juliette Pretot",
+  "short_name": "Nguyen Tran",
   "splash_pages": null,
   "start_url": "./",
   "theme_color": "#101823"
